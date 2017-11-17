@@ -88,7 +88,7 @@ c) number of states and dust units when all area in the floor grid is visited.
 https://www.youtube.com/watch?v=Wo3wE7ursAw&feature=youtu.be
 
 ## Developed by
-**Mr.Sitthichai Saejia 5730625221**
+[**Mr.Sitthichai Saejia 5730625221**](https://github.com/tueytoma)
 
 ## About
 Side Project of "ALGORITHM DESIGN" 2016/1.
