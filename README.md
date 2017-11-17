@@ -1,7 +1,7 @@
-#Robot Navigation
+# Robot Navigation
 This project is about making the robot to clean the floor tiles. 
 
-##Description
+## Description
 1. The floor tile has dust quantity 0 (no dust) to 5 (max of dust). 
 2. If dust quantity of tile is 0, robot can't move over. 
 3. Robot can clean dusts by its brush which has value 0 to 5 and the floor tile will cleaned by absolute of brush value minus dust value. 
@@ -11,11 +11,11 @@ This project is about making the robot to clean the floor tiles.
 6. Robot can move 8 directions around itself and stay still.
 7. Every time the robot has to change direction, it need to be in stay still state.
 
-##Goal
+## Goal
 1. Sum of dust quantity when all area in the floor grid is visited.
 2. Number of movement used for completely clean the floor.
 
-##Q&A
+## Q&A
 
 **1 state representation**
 
@@ -46,7 +46,7 @@ b) list your first state
 Queue
 ```
 
-**3 how to handle the data structure (get/put)**
+** 3 how to handle the data structure (get/put)**
 ```vim
 push_back  ( PUT TO QUEUE = enqueue)
 pop_front  ( GET OUT QUEUE = dequeue)
@@ -84,13 +84,13 @@ c) number of states and dust units when all area in the floor grid is visited.
 613 states / 434 dust units
 ```
 
-##Presentation
+## Presentation
 https://www.youtube.com/watch?v=Wo3wE7ursAw&feature=youtu.be
 
-##Developed by
+## Developed by
 **Mr.Sitthichai Saejia 5730625221**
 
-##About
+## About
 Side Project of "ALGORITHM DESIGN" 2016/1.
 
 Computer Engineering CP41.
